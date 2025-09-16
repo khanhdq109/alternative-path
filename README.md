@@ -1,2 +1,2 @@
-# alternative-path
-Alternative path for private projects
+# Alternative Path
+Code not public due to confidentiality
